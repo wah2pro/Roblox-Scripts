@@ -11,7 +11,7 @@ In this repository, you'll discover a collection of scripts that I've crafted to
 ## Featured Scripts
 
 - **NONE**
-- **NONE:** 
+- **NONE** 
 - **NONE** 
 
 And many more! Dive in and explore to find the perfect script for your needs.
